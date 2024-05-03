@@ -1,0 +1,27 @@
+{
+  "name": "imun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gratusrichard/IMUN.git"
+  },
+  "author": "gratus , iwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gratusrichard/IMUN/issues"
+  },
+  "homepage": "https://github.com/gratusrichard/IMUN#readme",
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.18.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.8.0",
+    "multer-storage-cloudinary": "^4.0.0"
+  }
+}
